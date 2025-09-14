@@ -49,8 +49,8 @@ I enjoy building web applications, exploring distributed systems, and working on
 ---
 
 ### 🔭 Projects & What I'm Building
-- Personal portfolio & projects (React + Spring Boot + MySQL)  
-- Automation tools and utilities (Python)  
+- Personal portfolio & projects  
+- Automation tools and utilities  
 - University projects: distributed systems, embedded systems, and dashboards  
 
 ---
