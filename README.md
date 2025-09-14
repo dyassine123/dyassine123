@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align="right" src="./avatar.svg" alt="Yassine Daoud - avatar (male, glasses)" height="150" />
+
 
 ## Hi! I'm Yassine Daoud
 I am a **Computer Engineering Student** at IIT.  
